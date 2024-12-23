@@ -1,10 +1,16 @@
-## Bem-vindo(a) ao perfil do Leonardo Oliveira 😁
-
-<h2 align="left">About Me</h2>
+<h1 align="left">Bem-vindo(a) ao perfil do Leonardo Oliveira</h1>
 
 ###
 
-<p align="left">- Desenvolvedor Frontend ( Freelancer )<br>- Cursando FullStack na Infinity School desde Junho / 2024</p>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">Sou um Desenvolvedor Frontend com experiência em projetos como freelancer, atualmente cursando Desenvolvimento Full Stack. Tenho conhecimentos em HTML, CSS, JavaScript, Python, Git/GitHub, Figma, Typebot, Canva, ChatGPT e Adobe Lightroom.<br><br>Destaco-me pela facilidade de aprendizado, proatividade e habilidade de resolver problemas, colaborando de forma criativa, eficaz, além do bom relacionamento interpessoal.</p>
+
+###
+
+<p align="left">📚 - Desenvolvimento Full Stack - Infinity School</p>
 
 ###
 
@@ -19,15 +25,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leo-o93&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leo-o93&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leo-o93&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
